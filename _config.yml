@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+title: geomexx
+description: geomechanics express
+show_downloads: false
+google_analytics:
