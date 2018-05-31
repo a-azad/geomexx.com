@@ -1,6 +1,6 @@
-### __geomexx__
+### geomexx
 
-[geomexx.com]('www.geomexx.com')'s vision is to establish [pragmatic]('https://en.m.wikipedia.org/wiki/Pragmatism') geomechanics within an [Agile]('http://agilemanifesto.org/') environment. __geomexx__ goes beyond disciplines and routines and integrates [AI]('https://en.wikipedia.org/wiki/Artificial_intelligence')__ with [geoprofessions]('https://en.m.wikipedia.org/wiki/Geoprofessions').   
+_geomexx_ is an effort to establish [pragmatic]('https://en.m.wikipedia.org/wiki/Pragmatism') [geomechanics]('https://en.wikipedia.org/wiki/Geomechanics') in an [Agile]('http://agilemanifesto.org/') environment. _geomexx_ deploys [AI]('https://en.wikipedia.org/wiki/Artificial_intelligence') within and beyond [geoprofessions]('https://en.m.wikipedia.org/wiki/Geoprofessions').   
 
 ### Projects
 
