@@ -6,34 +6,34 @@ languageCode = "en-us"
 
 
 [params]
-  name = "Adam Jensen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
-  copyright = "Untitled"
+  name = "GEO.MEXX"
+  about = "An effort to establish pragmatic geomechanics in an agile environment."
+  copyright = "ali.azad"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
 
-[[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "#"
+# [[params.social]]
+#   medium = "Twitter"
+#   icon = "twitter"
+#   link = "#"
 
-[[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
+# [[params.social]]
+#   medium = "Facebook"
+#   icon = "facebook"
+#   link = "#"
 
-[[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+# [[params.social]]
+#   medium = "Dribbble"
+#   icon = "dribbble"
+#   link = "#"
 
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "#"
+# [[params.social]]
+#   medium = "Github"
+#   icon = "github"
+#   link = "#"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:ali.azad@ualberta.ca?subject=Mail from geomexx.com"
