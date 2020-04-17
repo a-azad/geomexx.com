@@ -1,10 +1,8 @@
 baseURL = "https://a-azad.github.io/geomexx.com/"
 publishDir = "./../docs/"
 title = "GeoMexx"
-enableRobotsTXT = true
 theme = "aerial"
 languageCode = "en-us"
-
 
 
 [params]
