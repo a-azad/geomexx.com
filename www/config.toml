@@ -7,7 +7,7 @@ languageCode = "en-us"
 
 [params]
   name = "GEO.MEXX"
-  about = "An effort to establish pragmatic geomechanics in an agile environment."
+  about = "No-BS: AI-Based E2E Geomechanics in Your Reservoir"
   copyright = "ali.azad"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
